@@ -1,0 +1,28 @@
+{
+  "name": "gulp-load-directory",
+  "version": "0.0.1",
+  "description": "A bootstrapping function for loading a directory of gulp tasks.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://gitlab.com/yamadapc/gulp-load-directory.git"
+  },
+  "keywords": [
+    "gulp",
+    "bootstrapping",
+    "tasks"
+  ],
+  "author": "Pedro Tacla Yamada",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "mocha-make-stub": "^2.1.0"
+  },
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.3"
+  }
+}
