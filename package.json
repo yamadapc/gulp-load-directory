@@ -1,6 +1,6 @@
 {
   "name": "gulp-load-directory",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A bootstrapping function for loading a directory of gulp tasks.",
   "main": "lib/index.js",
   "scripts": {
